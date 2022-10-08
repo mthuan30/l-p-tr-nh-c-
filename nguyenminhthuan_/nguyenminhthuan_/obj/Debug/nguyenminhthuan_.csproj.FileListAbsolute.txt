@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\bin\Debug\nguyenminhthuan_.exe.config
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\bin\Debug\nguyenminhthuan_.exe
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\bin\Debug\nguyenminhthuan_.pdb
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.Form1.resources
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.Form2.resources
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.Properties.Resources.resources
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.exe
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.pdb
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.Form3.resources
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.Form4.resources
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.Form5.resources
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.Form6.resources
+C:\Users\HP\Desktop\nguyenminhthuan_\nguyenminhthuan_\obj\Debug\nguyenminhthuan_.Form7.resources
